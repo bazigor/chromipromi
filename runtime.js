@@ -8,4 +8,10 @@ exports.onMessage = {
     addListener: function (receiver) {
         chrome.runtime.onMessage.addListener(receiver);
     }
-}
+};
+
+exports.onMessageExternal = {
+    addListener: function (receiver) {
+        chrome.runtime.onMessageExternal.addListener(receiver);
+    }
+};
