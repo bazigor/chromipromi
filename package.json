@@ -1,0 +1,12 @@
+{
+  "name": "promichromi",
+  "description": "Promisification of chrome extension API",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Igor Bazarny <igor.bazarny@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bazigor/promichromi.git"
+  }
+}
